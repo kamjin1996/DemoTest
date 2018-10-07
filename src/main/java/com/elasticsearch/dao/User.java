@@ -1,4 +1,4 @@
-package com.dao;
+package com.elasticsearch.dao;
 
 import org.springframework.data.elasticsearch.annotations.Document;
 

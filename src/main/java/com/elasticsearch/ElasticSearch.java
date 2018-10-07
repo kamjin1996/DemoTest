@@ -1,6 +1,6 @@
 package com.elasticsearch;
 
-import com.dao.User;
+import com.elasticsearch.dao.User;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 
 /**

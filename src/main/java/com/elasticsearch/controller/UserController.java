@@ -1,7 +1,7 @@
-package com.controller;
+package com.elasticsearch.controller;
 
-import com.dao.User;
-import com.service.UserService;
+import com.elasticsearch.dao.User;
+import com.elasticsearch.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

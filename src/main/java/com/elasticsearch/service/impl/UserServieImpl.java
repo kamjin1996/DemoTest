@@ -1,8 +1,8 @@
-package com.service.impl;
+package com.elasticsearch.service.impl;
 
-import com.dao.User;
+import com.elasticsearch.dao.User;
 import com.elasticsearch.ElasticSearch;
-import com.service.UserService;
+import com.elasticsearch.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
-package com.service;
+package com.elasticsearch.service;
 
-import com.dao.User;
+import com.elasticsearch.dao.User;
 
 import java.util.List;
 
